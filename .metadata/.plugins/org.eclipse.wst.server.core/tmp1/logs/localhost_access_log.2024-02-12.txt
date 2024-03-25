@@ -1,0 +1,8 @@
+127.0.0.1 - - [12/Feb/2024:18:13:01 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:13:02 +0530] "GET /registerapp1/ HTTP/1.1" 404 768
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:13:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:13:11 +0530] "GET /registerapp1/form9.html HTTP/1.1" 200 1643
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:13:35 +0530] "GET /registerapp1/Register?username=aosfj&user+password=lflkj&mobile+number=5987&dob=2024-02-12&email=sameer7659927226%40gmail.com&gender=male&Qualification=BSC&country=INDIA&languages=urdu&comments=fasf HTTP/1.1" 200 185
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:14:43 +0530] "GET /registerapp1/Register?username=aosfj&user+password=lflkj&mobile+number=5987&dob=2024-02-12&email=sameer7659927226%40gmail.com&gender=male&Qualification=BSC&country=INDIA&languages=urdu&comments=fasf HTTP/1.1" 200 193
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:15:36 +0530] "GET /registerapp1/Register?username=sameer&user+password=apsar%40123&mobile+number=08309563597&dob=2024-02-02&email=sameer7659927226%40gmail.com&gender=male&Qualification=BSC&country=INDIA&languages=urdu&comments=sameer+is+a+good+boy HTTP/1.1" 200 220
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:16:29 +0530] "GET /registerapp1/form9.html HTTP/1.1" 200 1646

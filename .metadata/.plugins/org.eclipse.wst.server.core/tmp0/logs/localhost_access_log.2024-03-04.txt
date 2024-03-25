@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/Mar/2024:15:13:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:13:36 +0530] "GET /productap/ HTTP/1.1" 404 765
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:13:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:13:53 +0530] "GET /productap/product.html HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:14:13 +0530] "GET /productap/product.js HTTP/1.1" 200 1284
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:14:26 +0530] "GET /productap/product.html HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:14:48 +0530] "GET /productap/add-product.html HTTP/1.1" 200 2578
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:14:48 +0530] "GET /productap/formalidention.js HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:15:17 +0530] "POST /productap/addproductsevlet HTTP/1.1" 404 781
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:15:15:34 +0530] "POST /productap/addproductsevlet HTTP/1.1" 404 781

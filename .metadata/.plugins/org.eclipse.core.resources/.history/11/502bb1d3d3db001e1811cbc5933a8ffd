@@ -1,0 +1,19 @@
+package java8;
+@FunctionalInterface
+interface service
+{
+	String login(String username , String password);
+	
+}
+public class Example3 {
+
+	public static void main(String[] args) {
+		
+		service s1 = (username,password) -> {return username.equalsIgnoreCase("sameer")
+				&& password.equals("apsar@123")?"login succes":"login faill";};
+			s1.login("sameer" , "apsar@123");	
+				
+		}
+	}
+
+

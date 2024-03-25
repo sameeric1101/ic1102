@@ -1,0 +1,16 @@
+package java8;
+@FunctionalInterface
+
+	interface Greeting{
+
+	void greet();
+
+}
+	public class example1 {
+	public static void main(String[] args) {
+	
+		
+	}
+
+}
+

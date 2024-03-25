@@ -1,0 +1,14 @@
+127.0.0.1 - - [15/Feb/2024:07:39:02 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:07:39:03 +0530] "GET /FullName/ HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:07:39:10 +0530] "GET /FullName/form.html HTTP/1.1" 200 604
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:07:39:29 +0530] "GET /FullName/FullName?Frist+Name=shaik&Middile+Name=sameer&Last+Name=sana HTTP/1.1" 200 58
+127.0.0.1 - - [15/Feb/2024:07:40:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:07:40:41 +0530] "GET /Myname/ HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:07:40:47 +0530] "GET /Myname/form.html HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:07:41:20 +0530] "GET /Myname/p.html HTTP/1.1" 200 131
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:07:41:26 +0530] "GET /Myname/p.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2024:20:41:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:20:41:19 +0530] "GET /Registerationapp/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:20:41:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:20:41:28 +0530] "GET /Registerationapp/reg.html HTTP/1.1" 200 1652
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:20:41:55 +0530] "GET /Registerationapp/registretionapp?username=sameer&user+password=534543444&mobile+number=08309563597&dob=2024-02-07&email=sameer7659927226%40gmail.com&gender=male&Qualification=BSC&country=YERURU&languages=urdu&comments=sameeryugeweyg HTTP/1.1" 200 207

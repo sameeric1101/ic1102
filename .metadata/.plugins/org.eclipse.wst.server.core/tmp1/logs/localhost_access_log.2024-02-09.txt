@@ -1,0 +1,5 @@
+127.0.0.1 - - [09/Feb/2024:10:43:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:10:43:05 +0530] "GET /Productapp/ HTTP/1.1" 404 766
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:10:43:05 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:10:43:35 +0530] "GET /Productapp/product.html HTTP/1.1" 200 825
+0:0:0:0:0:0:0:1 - - [09/Feb/2024:10:43:57 +0530] "GET /Productapp/ProductApp?product+Id=1&product+Name=apple&product+Price=20&product+quantity=10 HTTP/1.1" 200 165
